@@ -5,7 +5,7 @@ metadata:
 type: Opaque
 data:
   azurestorageaccountname: bWx0cmFpbmluZ2xhYg==
-  azurestorageaccountkey: bGtneHczeDVjMVlMOWl0NjBDSDNpaThmTXdOQnc9PQ==
+  azurestorageaccountkey: UEtLcm9NazhrNXpZUDVZUDI3UDY0SFczUjYwdkY1cDltYWx5SzgrUVQzMW1NUnF4Rkk0OVZnbjdUbGtneHczeDVjMVlMOWl0NjBDSDNpaThmTXdOQnc9PQ==
 ---
 apiVersion: batch/v1
 kind: Job
